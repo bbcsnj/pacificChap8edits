@@ -96,7 +96,7 @@ border-collapse: collapse;
 }
 td, th { 
 padding: 0.5rem;
-border: 2px solid #3399CC;
+border: 1px solid #3399CC;
 }
 td { text-align: center; }
 .text { text-align: left; }
