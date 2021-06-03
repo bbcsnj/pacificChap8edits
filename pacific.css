@@ -92,11 +92,11 @@ text-align: center;
 table { 
 margin: auto;
 width: 90%;
+border: 1px solid #3399CC;  
 border-collapse: collapse; 
 }
 td, th { 
-padding: 0.5rem;
-border: 1px solid #3399CC;
+padding: 5px;
 }
 td { text-align: center; }
 .text { text-align: left; }
